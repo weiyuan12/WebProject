@@ -1,0 +1,9 @@
+.main-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#add-button{
+    align-items: flex-end;
+    border: 1px black solid;
+}

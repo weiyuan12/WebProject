@@ -6,7 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./top-bar.component.css']
 })
 export class TopBarComponent {
-  openNav (){
-    console.log("Clicked")
-  }
+  
 }
